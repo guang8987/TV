@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-14 06:31:23,url
+2025-01-14 18:33:23,url
 📺央视频道,#genre#
 CCTV-1,http://60.208.61.2:352/tsfile/live/0001_1.m3u8
 CCTV-1,http://61.157.139.15:9901/tsfile/live/2371_1.m3u8
@@ -1077,7 +1077,7 @@ CETV4,http://123.56.129.203:7412/rtp/225.1.8.195:4120
 辽宁卫视,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265022&livemode=1&stbId=3
 辽宁卫视,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000004000011671/1.m3u8?channel-id=bestzb&Contentid=5000000004000011671&livemode=1&stbId=3
 辽宁卫视,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_LIAONING-HQ/G_LIAONING-HQ.m3u8
-内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680$1920x1080
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
 内蒙古卫视,http://123.138.22.30:9901/tsfile/live/0109_1.m3u8
 内蒙古卫视,http://118.122.189.74:9901/tsfile/live/0109_1.m3u8
 内蒙古卫视,http://121.33.239.242:9901/tsfile/live/0109_1.m3u8
@@ -1507,7 +1507,6 @@ CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 经典电影,http://58.19.43.46:9901/tsfile/live/1012_1.m3u8
 IPTV经典电影,http://123.56.129.203:7412/rtp/225.1.8.203:9024
-无线星河,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=Xinhe
 东森电影,https://bsex.serv00.net/Smart.php?id=ettvmovie
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$1920x1080
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$1920x1080
@@ -1539,7 +1538,7 @@ IPTV经典电影,http://123.56.129.203:7412/rtp/225.1.8.203:9024
 金鹰卡通,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/5000000006000040024/1.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
 金鹰卡通,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_JINYING/G_JINYING.m3u8
 炫动卡通,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_XUANDONG/G_XUANDONG.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$1920x1080
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$1920x1080
 浙江少儿,http://120.55.49.231:2693/rtp/233.50.201.138:5140
 浙江少儿,http://120.55.49.231:3543/rtp/233.50.201.138:5140
@@ -1564,5 +1563,6 @@ IPTV经典电影,http://123.56.129.203:7412/rtp/225.1.8.203:9024
 笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8
 天龙八部,http://huanqiuzhibo.cn/manifest/huya.php?id=23903123
 鹿鼎记,http://huanqiuzhibo.cn/manifest/huya.php?id=23865080
+仙剑奇侠传,http://jiaojirentv.top/2020/yy.php?id=1382749903
 封神榜,http://huanqiuzhibo.cn/manifest/huya.php?id=23749096
 射雕英雄传,http://huanqiuzhibo.cn/manifest/huya.php?id=23824164
