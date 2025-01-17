@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-17 18:32:13,url
+2025-01-18 06:31:32,url
 📺央视频道,#genre#
 CCTV-1,http://60.208.61.2:352/tsfile/live/0001_1.m3u8
 CCTV-1,http://61.157.139.15:9901/tsfile/live/2371_1.m3u8
@@ -1449,12 +1449,12 @@ CETV4,http://123.56.129.203:7412/rtp/225.1.8.195:4120
 凤凰卫视,http://58.215.231.60/live2.rxip.sc96655.com/live/test1_4000.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8$1920x1080
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2$1920x1080
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$1920x1080
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$1920x1080
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$1920x1080
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$1920x1080
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$1920x1080
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8$1920x1080
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$1920x1080
 纬来体育,http://ku9.fr.to/smt.php?id=videolandsport$1920x1080
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
@@ -1470,8 +1470,8 @@ J2,http://r.jdshipin.com/Nr5jq
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40$1920x1080
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40$1920x1080
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$1920x1080
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$1920x1080
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$1920x1080
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$1920x1080
 东森电影,https://bsex.serv00.net/Smart.php?id=ettvmovie
@@ -1483,13 +1483,14 @@ CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8
 经典电影,http://58.19.43.46:9901/tsfile/live/1012_1.m3u8
 IPTV经典电影,http://123.56.129.203:7412/rtp/225.1.8.203:9024
 东森电影,https://bsex.serv00.net/Smart.php?id=ettvmovie
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$1920x1080
-东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8$1920x1080
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40$1920x1080
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$1920x1080
 爱上4K,http://123.56.129.203:7412/rtp/225.1.8.80:2000
 🪁动画频道,#genre#
 动漫秀场,http://tvbox6.icu/tv/gdmzyd.php?id=83
+CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$1920x1080
 优漫卡通,http://58.221.214.82:9901/tsfile/live/0008_2.m3u8
 优漫卡通,http://110.53.218.182:9902/tsfile/live/1006_1.m3u8
 优漫卡通,http://139.129.231.228:3529/rtp/239.21.1.50:5002
