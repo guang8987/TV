@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-31 18:31:53,url
+2025-02-01 06:32:35,url
 📺央视频道,#genre#
 CCTV-1,http://58.17.116.69:9908/tsfile/live/0001_1.m3u8
 CCTV-1,http://202.100.46.58:9901/tsfile/live/1000_1.m3u8
@@ -940,3 +940,4 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$1920x1080
 蜡笔小新,http://cdn.jdshipin.com:8880/huya.php?id=11352970
 🏛经典剧场,#genre#
 笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8
+仙剑奇侠传,http://jiaojirentv.top/2020/yy.php?id=1382749903
