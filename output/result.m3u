@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2025-02-02 18:30:43" tvg-logo="https://live.fanmingming.com/tv/2025-02-02 18:30:43.png" group-title="更新时间",2025-02-02 18:30:43
+#EXTINF:-1 tvg-name="2025-02-03 06:31:49" tvg-logo="https://live.fanmingming.com/tv/2025-02-03 06:31:49.png" group-title="更新时间",2025-02-03 06:31:49
 url
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://58.17.116.69:9908/tsfile/live/0001_1.m3u8
@@ -1706,7 +1706,7 @@ http://tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221
 #EXTINF:-1 tvg-name="凤凰卫视" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视.png" group-title="🌊港·澳·台",凤凰卫视
 http://58.215.231.60/live2.rxip.sc96655.com/live/test1_4000.m3u8
 #EXTINF:-1 tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="🌊港·澳·台",TVBS
-http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
+http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8$1920x1080
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://live.fanmingming.com/tv/TVB Plus.png" group-title="🌊港·澳·台",TVB Plus
 http://php.jdshipin.com/TVOD/iptv.php?id=j2$1920x1080
 #EXTINF:-1 tvg-name="TVBS亚洲" tvg-logo="https://live.fanmingming.com/tv/TVBS亚洲.png" group-title="🌊港·澳·台",TVBS亚洲
@@ -1760,9 +1760,9 @@ https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://live.fanmingming.com/tv/东森电影.png" group-title="🌊港·澳·台",东森电影
 https://bsex.serv00.net/Smart.php?id=ettvmovie
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="🌊港·澳·台",中视
-http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
+http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8$1920x1080
 #EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.com/tv/华视.png" group-title="🌊港·澳·台",华视
-http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
+http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8$1920x1080
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
 http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="🎬电影频道",CHC家庭影院
