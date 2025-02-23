@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2025-02-23 18:32:21" tvg-logo="https://live.fanmingming.com/tv/2025-02-23 18:32:21.png" group-title="更新时间",2025-02-23 18:32:21
+#EXTINF:-1 tvg-name="2025-02-24 06:32:09" tvg-logo="https://live.fanmingming.com/tv/2025-02-24 06:32:09.png" group-title="更新时间",2025-02-24 06:32:09
 url
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://202.100.46.58:9901/tsfile/live/1000_1.m3u8
@@ -1398,7 +1398,7 @@ http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_JINYING/G_JINYING.m3u
 #EXTINF:-1 tvg-name="炫动卡通" tvg-logo="https://live.fanmingming.com/tv/炫动卡通.png" group-title="🪁动画频道",炫动卡通
 http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_XUANDONG/G_XUANDONG.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="🪁动画频道",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$1920x1080
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png" group-title="🪁动画频道",浙江少儿
 https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$1920x1080
 #EXTINF:-1 tvg-name="河北少儿科教" tvg-logo="https://live.fanmingming.com/tv/河北少儿科教.png" group-title="🪁动画频道",河北少儿科教
