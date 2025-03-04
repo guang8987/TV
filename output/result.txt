@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-03-04 06:32:03,url
+2025-03-04 18:33:21,url
 📺央视频道,#genre#
 CCTV-1,http://121.33.239.242:9901/tsfile/live/0001_1.m3u8
 CCTV-1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8$1920x1080
@@ -27,7 +27,7 @@ CCTV-3,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000
 CCTV-4,http://58.19.43.46:9901/tsfile/live/1023_1.m3u8
 CCTV-4,http://61.138.128.226:19901/tsfile/live/0004_1.m3u8
 CCTV-4,http://121.33.239.242:9901/tsfile/live/0004_1.m3u8
-CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8$1920x1080
 CCTV-4,http://110.53.218.182:9902/tsfile/live/0004_1.m3u8
 CCTV-4,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_CCTV-4-HQ/G_CCTV-4-HQ.m3u8
 CCTV-4,https://api.olelive.com/dis/live/CCTV4HD/hls.m3u8$1920x1080
@@ -449,7 +449,6 @@ IPTV经典电影,http://123.56.129.203:7412/rtp/225.1.8.203:9024
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$1920x1080
 爱上4K,http://123.56.129.203:7412/rtp/225.1.8.80:2000
 🪁动画频道,#genre#
-动漫秀场,http://tvbox6.icu/tv/gdmzyd.php?id=83
 优漫卡通,http://110.53.218.182:9902/tsfile/live/1006_1.m3u8
 优漫卡通,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000002000010063/1.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3
 优漫卡通,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_YOUMAN/G_YOUMAN.m3u8
@@ -478,4 +477,3 @@ IPTV经典电影,http://123.56.129.203:7412/rtp/225.1.8.203:9024
 蜡笔小新,http://cdn.jdshipin.com:8880/huya.php?id=11352970
 🏛经典剧场,#genre#
 笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8
-仙剑奇侠传,http://jiaojirentv.top/2020/yy.php?id=1382749903
