@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-03-10 18:31:27,url
+2025-03-11 06:32:33,url
 📺央视频道,#genre#
 CCTV-1,http://121.33.239.242:9901/tsfile/live/0001_1.m3u8
 CCTV-1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8$1920x1080
@@ -443,7 +443,6 @@ IPTV经典电影,http://123.56.129.203:7412/rtp/225.1.8.203:9024
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40$1920x1080
 爱上4K,http://123.56.129.203:7412/rtp/225.1.8.80:2000
 🪁动画频道,#genre#
-CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$1920x1080
 优漫卡通,http://110.53.218.182:9902/tsfile/live/1006_1.m3u8
 优漫卡通,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000002000010063/1.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3
 优漫卡通,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_YOUMAN/G_YOUMAN.m3u8
