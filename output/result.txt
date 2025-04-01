@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-04-01 18:33:51,url
+2025-04-02 06:33:18,url
 📺央视频道,#genre#
 CCTV-1,http://121.33.239.242:9901/tsfile/live/0001_1.m3u8
 CCTV-1,https://api.olelive.com/dis/live/CCTV1HD/hls.m3u8$1920x1080
@@ -289,7 +289,7 @@ CETV4,http://123.56.129.203:7412/rtp/225.1.8.195:4120
 凤凰香港,http://tptvh.mobaibox.com/hwcdnbacksourceflag_223.110.243.237:80/PLTV/3/224/3221228530/1.m3u8?accountinfo=zZFAoaFBf0eeoBboZZ7f2LG%2Bb0LrBOSBfEzhwiBMvngq%2FpkEzcEgSA5jxU7E691yLgLXQIrVnITSKe4cR7UMbSd2y6TJst%2Bjh31VKZhtgiKIZEDSyu578hnwyF2DFwHcbF2ObC9a54Vp367lDA52PczEcH9gPEwYj%2BtNwrWi0aU%3D%3A20241025090828%2C-1%2C112.25.63.228%2C20241025090828%2CHD-10000k-1080P-fhhongkong5s%2C1734208302178_77%3A98%3AB2%3A9A%3AA8%3A67%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000016268434_0%2CEND&GuardEncType=2&servicetype=1&unionUrl=gitv%2Flive1%2FHD-10000k-1080P-fhhongkong5s%2FHD-10000k-1080P-fhhongkong5s&icpid=88888888&from=5&popid=5&hms_devid=6448&prioritypopid=5
 凤凰卫视,http://58.215.231.60/live2.rxip.sc96655.com/live/test1_4000.m3u8
 TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2$1920x1080
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
@@ -338,13 +338,22 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$1920x1080
 金鹰卡通,http://61.138.128.226:19901/tsfile/live/1018_1.m3u8
 金鹰卡通,http://58.19.43.46:9901/tsfile/live/1000_1.m3u8
 金鹰卡通,http://121.33.239.242:9901/tsfile/live/38727_1.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$1920x1080
+睛彩少儿,http://[2409:8087:1a01:df::4051]:80/TVOD/88888888/224/3221225903/main.m3u8
+睛彩少儿,http://[2409:8087:1a01:df::4051]/TVOD/88888888/224/3221225903/main.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
 河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.flv?t=2510710360&k=87b12e4fe703265f4f59538a2399246c
+七龙珠,https://live.iill.top/huya/25650806
+七龙珠,https://live.iill.top/huya/11601966
+七龙珠,http://live.iill.top/huya.php?id=11601966
+七龙珠,http://live.iill.top/huya.php?id=25650806
+火影忍者,https://live.iill.top/douyu/1997723
+火影忍者,http://live.iill.top/douyu.php?id=1997723
 海绵宝宝,http://cdn.jdshipin.com:8880/huya.php?id=11352919
+中华小当家,https://live.iill.top/huya/11342413
 中华小当家,http://mtv.wuzhij.com/huya.php?id=24257300&cdn=txcdn
-斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105
+猫和老鼠,https://live.iill.top/huya/11352879
+猫和老鼠,http://live.iill.top/huya.php?id=11352879
 蜡笔小新,http://cdn.jdshipin.com:8880/huya.php?id=11352970
 🏛经典剧场,#genre#
 笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8
-上海滩,https://live.metshop.top/yy/1382745184
